@@ -3,7 +3,7 @@
 <h3 align="center">A curious mind, always eager to learn and explore new things.</h3>
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chinmayi1304&label=Profile%20views&color=134767&style=flat" alt="chinmayi1304" /> </p>
+
 
 - 🌱 I’m currently learning **a whirlwind of frameworks, algorithms and tools, expanding my technical skillset through immersive exploration**
 
