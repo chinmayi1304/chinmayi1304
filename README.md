@@ -1,9 +1,6 @@
 ![MasterHead](https://camo.githubusercontent.com/5b16c4ed35efd0dee00fe6c0fa6809ef7b47b60d977769cf3974f42c157fa71f/68747470733a2f2f64657a696e65627261696e7a2e636f6d2f696d616765732f7765622d64657369676e2d6769662e676966)
 <h1 align="center">Hi 👋, I'm Chinmayi Deshmane</h1>
 <h3 align="center">A curious mind, always eager to learn and explore new things.</h3>
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
-
-
 
 - 🌱 I’m currently learning **a whirlwind of frameworks, algorithms and tools, expanding my technical skillset through immersive exploration**
 
